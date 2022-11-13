@@ -1,0 +1,74 @@
+{
+  "brands": [
+    "Rolex",
+    "Casio",
+    "Timex",
+    "Seiko"
+  ],
+  "watches": [
+    {
+      "brand": "Rolex",
+      "name": "Submariner",
+      "price": 94000,
+      "stock": 8,
+      "image": "https://cdn2.chrono24.com/images/uhren/19631181-942mj3fypilk26k6s19h0htq-ExtraLarge.jpg",
+      "id": 1
+    },
+    {
+      "brand": "Rolex",
+      "name": "Datejust",
+      "price": 62000,
+      "stock": 12,
+      "image": "https://cdn2.chrono24.com/images/uhren/25640905-9s69ptfek4ovgnxtraks06ao-ExtraLarge.jpg",
+      "id": 2
+    },
+    {
+      "brand": "Casio",
+      "name": "VINTAGE Silver",
+      "price": 200,
+      "stock": 524,
+      "image": "https://zegarownia.pl/media/catalog/product/cache/1/image/500x600/z/e/zegarek-meski-casio-retro-silver-a158wea-1ef.webp",
+      "id": 3
+    },
+    {
+      "brand": "Casio",
+      "name": "Sporty Digital",
+      "price": 242,
+      "stock": 552,
+      "image": "https://zegarownia.pl/media/catalog/product/cache/1/image/500x600/z/e/zegarek-meski-casio-sport-ae-1000w-1avef.webp",
+      "id": 4
+    },
+    {
+      "brand": "Timex",
+      "name": "Allied TW2T76300",
+      "price": 300,
+      "stock": 442,
+      "image": "https://www.alletime.pl/galerie/z/zegarek-meski-timex-allied-tw_31222.jpg",
+      "id": 5
+    },
+    {
+      "brand": "Timex",
+      "name": "Reissue Falcon Eye",
+      "price": 790,
+      "stock": 322,
+      "image": "https://s1.apart.pl/files/czeg_img/img_prod7125_0_o.jpg",
+      "id": 6
+    },
+    {
+      "brand": "Seiko",
+      "name": "SSB357P1",
+      "price": 1320,
+      "stock": 87,
+      "image": "https://image.ceneostatic.pl/data/article_picture/12/81/b456-bdf9-4138-a657-0e916e41258e_large.jpg",
+      "id": 7
+    },
+    {
+      "brand": "Seiko",
+      "name": "Prospex",
+      "price": 2300,
+      "stock": 44,
+      "image": "https://wkruk.pl/product_picture/fit_in_510x680/5e80f48a3999540fc450b79f1d79d96b.jpg",
+      "id": 8
+    }
+  ]
+}
